@@ -77,4 +77,4 @@ python manage.py runserver
 
 [- Description](https://docs.google.com/document/d/1WMexh_AJeoZyrdAbfSyy_lZgD4aRq_PiRC7nJ6Ir4EE/edit?usp=sharing) 
 
-[- Youtube Demo](https://www.youtube.com/watch?v=9pKg_C6C43E) 
+[- Youtube Demo](https://youtu.be/hzVMLVBT4Pc) 

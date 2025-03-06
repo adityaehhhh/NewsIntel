@@ -20,7 +20,7 @@ To run the project locally:
 1. Clone the repository:
 
 ```terminal
-git clone https://github.com/iamakashrout/SIH-2023.git
+https://github.com/adityaehhhh/NewsIntel
 ```
 - Navigate to project directory.
 ```terminal

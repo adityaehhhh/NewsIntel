@@ -24,7 +24,7 @@ git clone https://github.com/adityaehhhh/NewsIntel
 ```
 - Navigate to project directory.
 ```terminal
-cd SIH-2023
+cd NewsIntel
 ```
 
 2. Install dependencies for the client (Next.js):

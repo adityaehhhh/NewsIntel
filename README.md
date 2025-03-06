@@ -20,7 +20,7 @@ To run the project locally:
 1. Clone the repository:
 
 ```terminal
-https://github.com/adityaehhhh/NewsIntel
+git clone https://github.com/adityaehhhh/NewsIntel
 ```
 - Navigate to project directory.
 ```terminal

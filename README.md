@@ -71,8 +71,4 @@ python manage.py runserver
 
 ## Project Links  
 
-[- Abstract](https://docs.google.com/document/d/16uxjx-_B8r9y3Muj9UF9Te59mdxYftoAy0u3LZxXm_k/edit?usp=sharing)  
-
-[- Description](https://docs.google.com/document/d/1WMexh_AJeoZyrdAbfSyy_lZgD4aRq_PiRC7nJ6Ir4EE/edit?usp=sharing) 
-
 [- Youtube Demo](https://youtu.be/hzVMLVBT4Pc) 
